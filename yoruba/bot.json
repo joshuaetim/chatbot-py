@@ -1,0 +1,109 @@
+[
+  {
+    "response_type": "greeting",
+    "user_input": [
+      "ọ káàbọ",
+      "bawo",
+      "ẹ n lẹ",
+      "ṣeun"
+    ],
+    "bot_response": "Ṣé dáadáa ni ọjọ́ ibi rẹ!",
+    "required_words": []
+  },
+  {
+    "response_type": "father",
+    "user_input": [
+      "ta",
+      "ni",
+      "baba"
+    ],
+    "bot_response": "Bàbá ni ọkùnrin tí ó ní ọmọ.",
+    "required_words": [
+      "baba"
+    ]
+  },
+  {
+    "response_type": "mother",
+    "user_input": [
+      "ta",
+      "ni",
+      "iya"
+    ],
+    "bot_response": "ìyá jẹ́ obìnrin ti ó ní ọmọ",
+    "required_words": [
+      "iya"
+    ]
+  },
+  {
+    "response_type": "child",
+    "user_input": [
+      "ta",
+      "ni",
+      "omo"
+    ],
+    "bot_response": "Ọmọ jẹ ẹnìtí ó ní ìyá àti bàbá.",
+    "required_words": [
+      "omo"
+    ]
+  },
+  {
+    "response_type": "male",
+    "user_input": [
+      "ta",
+      "ni",
+      "okunrin"
+    ],
+    "bot_response": "Ọkùnrin jẹ ẹnìti ó jẹ àkọ.",
+    "required_words": [
+      "okunrin"
+    ]
+  },
+  {
+    "response_type": "female",
+    "user_input": [
+      "ta",
+      "ni",
+      "obinrin"
+    ],
+    "bot_response": "Obìnrin jẹ ẹnìtí ó jẹ àbò.",
+    "required_words": [
+      "obinrin"
+    ]
+  },
+  {
+    "response_type": "parent",
+    "user_input": [
+      "ta",
+      "ni",
+      "obi"
+    ],
+    "bot_response": "Ọbí ni bàbá tàbí ìyá.",
+    "required_words": [
+      "obi"
+    ]
+  },
+  {
+    "response_type": "inlaw",
+    "user_input": [
+      "ta",
+      "ni",
+      "ana"
+    ],
+    "bot_response": "Àná jẹ ẹbí lẹyìn igbèyawọ ará ilẹ ẹní.",
+    "required_words": [
+      "ana"
+    ]
+  },
+  {
+    "response_type": "inlaw",
+    "user_input": [
+      "ta",
+      "ni",
+      "ebi"
+    ],
+    "bot_response": "Ẹbí jẹ ìbàtàn ẹní.",
+    "required_words": [
+      "ebi"
+    ]
+  }
+]

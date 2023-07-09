@@ -1,0 +1,14 @@
+[
+  {
+    "response_type": "greeting",
+    "user_input": [
+      "ọ káàbọ",
+      "bawo ni",
+      "ẹ n lẹ",
+      "ṣeun",
+      "hello"
+    ],
+    "bot_response": "Ṣé dáadáa ni ọjọ́ ibi rẹ!",
+    "required_words": []
+  }
+]
